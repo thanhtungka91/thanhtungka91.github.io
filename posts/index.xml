@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 25 Sep 2020 12:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Build A Simple Blog With Hugo</title>
-      <link>http://example.org/posts/new-post-title/</link>
+      <link>http://example.org/posts/build-simple-blog-with-hugo/</link>
       <pubDate>Fri, 25 Sep 2020 12:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/new-post-title/</guid>
-      <description>And go&amp;hellip;</description>
+      <guid>http://example.org/posts/build-simple-blog-with-hugo/</guid>
+      <description>What is Hugo and why Hugo vs others Install Hugo Mac OS brew install hugo Add theme Deploy to github page </description>
     </item>
     
   </channel>
