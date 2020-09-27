@@ -13,7 +13,9 @@
       <pubDate>Fri, 25 Sep 2020 12:00:00 +0000</pubDate>
       
       <guid>http://example.org/posts/build-simple-blog-with-hugo/</guid>
-      <description>What is Hugo and why Hugo vs others Install Hugo Mac OS brew install hugo Add theme Deploy to github page </description>
+      <description>What is Hugo and why Hugo vs others Install Hugo Please refer this hugo official document to install hugo https://gohugo.io/getting-started/quick-start/
+If you are using mac, it is quite simple, lets install hugo!!!
+Mac OS brew install hugo hugo new site blog cd blog git init Add theme There are so many theme from hugo page, you can select for your own like personal blog, you can go to document of each page to know how to use and config the theme</description>
     </item>
     
   </channel>
